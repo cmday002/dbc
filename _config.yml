@@ -19,6 +19,9 @@ description: >- # this means to ignore newlines until "baseurl:"
   Residential contractor
 minimal_mistakes_skin: dark
 search: true
+locale: "en-US"
+logo: "/assets/images/logo/logo-text.png"
+teaser: "/assets/images/logo/logo-transparent.png"
 
 # Build settings
 markdown: kramdown
