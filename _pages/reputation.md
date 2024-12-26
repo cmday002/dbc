@@ -1,7 +1,7 @@
 ---
 permalink: /reputation/
 title: "Our Reputation"
-layout: splash
+layout: single
 ---
 
 <br>

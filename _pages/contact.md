@@ -4,7 +4,9 @@ title: "Contact"
 layout: single
 ---
 
-Call us at (913) 369-7916 or use the form below to contact us for your next project.
+Call us at (913) 369-7916 or email us anytime at info@daybuildco.com
+
+You can also use the form below to contact us. We will never use or sell your information for any reason outside of your inquiry.
 
 <form action="https://localhost:7286/message" method="post">
   <label for="phone">Phone</label>

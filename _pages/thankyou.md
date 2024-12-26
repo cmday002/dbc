@@ -4,7 +4,7 @@ title: "Thank you!"
 layout: single
 ---
 
-We got your message. We will get back to you as soon as we can.
+We got your message and we will get back to you as soon as we can.
 
 <br>
 <br>
