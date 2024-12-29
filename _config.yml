@@ -17,7 +17,7 @@ title: DayBuildCo
 masthead_title: "(913) 369-7916"
 email: chris@daybuildco.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Residential contractor
+  Rural building contractor serving NE Kansas
 minimal_mistakes_skin: neon
 search: true
 locale: "en-US"
@@ -63,7 +63,7 @@ plugins:
 author:
   name: "DayBuildCo"
   avatar: "/assets/images/logo/logo-square.png"
-  bio: "Residential contractor"
+  bio: "Building contractor"
   links:
     - label: "Youtube"
       icon: "fab fa-fw fa-youtube-square"
