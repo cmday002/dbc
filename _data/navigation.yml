@@ -1,9 +1,11 @@
 main:
   - title: "Home"
     url: /
-  - title: "About"
-    url: /about/
-  - title: "Our Reputation"
+  - title: "Story"
+    url: /my-story
+  - title: "Reputation"
     url: /reputation/
   - title: "Contact"
     url: /contact/
+  - title: "Blog"
+    url: /posts/
