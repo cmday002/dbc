@@ -8,7 +8,7 @@ Call us at (913) 369-7916 or email us anytime at info@daybuildco.com
 
 You can also use the form below to contact us. We will never use or sell your information for any reason outside of your inquiry.
 
-<form action="https://localhost:7286/message" method="post">
+<form action="https://dbcreceiver.azurewebsites.net/message" method="post">
   <label for="phone">Phone</label>
   <input name="Phone" placeholder="Phone" id="phone" type="phone" style="border: 1px solid gray" required>
   <label for="email">Email</label>
