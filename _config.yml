@@ -14,17 +14,17 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: DayBuildCo
-masthead_title: "(913) 369-7916"
+masthead_title: " "
 email: chris@daybuildco.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Rural building contractor serving NE Kansas
+  Builder in Northeast Kansas
 minimal_mistakes_skin: neon
 search: true
 locale: "en-US"
 # url: "https://daybuildco.com"
 # baseurl: "/dbc"
 repository: "cmday002/dbc"
-logo: "/assets/images/logo/logo-text.png"
+logo: "/assets/images/logo/logo-text-with-number.png"
 teaser: "/assets/images/logo/logo-transparent.png"
 
 # Build settings
@@ -67,7 +67,7 @@ plugins:
 
 author:
   name: "DayBuildCo"
-  avatar: "/assets/images/logo/logo-square.png"
+  avatar: "/assets/images/logo/logo-black-bg-square-letters-only.png"
   bio: "Building contractor"
   links:
     - label: "Youtube"
@@ -75,10 +75,7 @@ author:
       url: "https://youtube.com/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook"
-      url: "https://facebook.com/"
+      url: "https://instagram.com/daybuildco"
 
 footer:
   links:
@@ -87,10 +84,7 @@ footer:
       url: "https://youtube.com/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook"
-      url: "https://facebook.com/"
+      url: "https://instagram.com/daybuildco"
 
 defaults:
   # _posts
