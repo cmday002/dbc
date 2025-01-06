@@ -65,6 +65,9 @@ plugins:
   - jemoji
   - jekyll-include-cache
 
+atom_feed:
+  hide: true
+
 author:
   name: "DayBuildCo"
   avatar: "/assets/images/logo/logo-black-bg-square-letters-only.png"
