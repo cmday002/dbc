@@ -72,7 +72,7 @@ author:
   links:
     - label: "Youtube"
       icon: "fab fa-fw fa-youtube-square"
-      url: "https://youtube.com/"
+      url: "https://youtube.com/@DayBuildCo"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/daybuildco"
@@ -81,7 +81,7 @@ footer:
   links:
     - label: "Youtube"
       icon: "fab fa-fw fa-youtube-square"
-      url: "https://youtube.com/"
+      url: "https://youtube.com/@DayBuildCo"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/daybuildco"
