@@ -13,7 +13,7 @@ Picking up where I left off in [my story]({{ site.url }}{{ site.baseurl }}/my-st
   <figcaption>Me looking hardcore</figcaption>
 </figure> 
 
-The military is our family business. Dad flew helos in the gulf, his dad served before him, and my two brothers served after.
+Growing up, the military is our family business. Dad flew helos in the gulf, his dad served before him, and my two brothers served after.
 
 Yep that's me - An ROTC cadet getting ready to hit the streets of Mogadishu. In reality this is Fort Riley KS, probably on a Saturday or Sunday so it wouldn't interfere with our glamorous college lifestyle.
 
