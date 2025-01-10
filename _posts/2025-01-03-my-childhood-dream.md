@@ -4,7 +4,7 @@ date: 2025-01-03
 show_date: true
 ---
 
-When I was a kid a played with GI Joes.
+When I was a kid I played with GI Joes.
 
 Picking up where I left off in [my story]({{ site.url }}{{ site.baseurl }}/my-story): I began my jouney as an adult with full intention to become an Army officer. 
 
