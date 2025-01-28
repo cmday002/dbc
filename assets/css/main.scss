@@ -9,3 +9,8 @@ $primary-color: orange;
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
+
+::selection {
+    background: orange;
+    color: black;
+  }
